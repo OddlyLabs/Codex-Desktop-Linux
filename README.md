@@ -1,22 +1,6 @@
 # Codex Desktop Linux
 
-<p align="center">
-  <a href="https://github.com/wintopic/Codex-Desktop-Linux/actions/workflows/release-deb.yml">
-    <img alt="Build and release Debian package" src="https://github.com/wintopic/Codex-Desktop-Linux/actions/workflows/release-deb.yml/badge.svg">
-  </a>
-  <a href="https://github.com/wintopic/Codex-Desktop-Linux/releases/latest">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/wintopic/Codex-Desktop-Linux?label=latest%20release">
-  </a>
-  <a href="https://github.com/wintopic/Codex-Desktop-Linux/releases">
-    <img alt="Debian package releases" src="https://img.shields.io/github/downloads/wintopic/Codex-Desktop-Linux/total?label=downloads">
-  </a>
-</p>
-
-<p align="center">
-  Automated Debian package releases for Codex Desktop on Linux.
-</p>
-
----
+Automated Debian package releases for Codex Desktop on Linux.
 
 This repository is an automation layer for building and publishing Linux
 packages. It does not vendor, fork, or mirror the upstream packaging source.

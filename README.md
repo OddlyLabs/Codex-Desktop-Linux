@@ -15,15 +15,15 @@ asset.
 
 | Need | Link |
 | --- | --- |
-| Download the latest `.deb` | [Latest release](https://github.com/wintopic/Codex-Desktop-Linux/releases/latest) |
-| Browse all builds | [Releases](https://github.com/wintopic/Codex-Desktop-Linux/releases) |
-| Watch build status | [GitHub Actions](https://github.com/wintopic/Codex-Desktop-Linux/actions/workflows/release-deb.yml) |
+| Download the latest `.deb` | [Latest release](https://github.com/OddlyLabs/Codex-Desktop-Linux/releases/latest) |
+| Browse all builds | [Releases](https://github.com/OddlyLabs/Codex-Desktop-Linux/releases) |
+| Watch build status | [GitHub Actions](https://github.com/OddlyLabs/Codex-Desktop-Linux/actions/workflows/release-deb.yml) |
 | Upstream packaging source | [`ilysenko/codex-desktop-linux`](https://github.com/ilysenko/codex-desktop-linux) |
 
 ## Install
 
 Download the `.deb` file from the
-[latest release](https://github.com/wintopic/Codex-Desktop-Linux/releases/latest),
+[latest release](https://github.com/OddlyLabs/Codex-Desktop-Linux/releases/latest),
 then install it with:
 
 ```bash
@@ -49,7 +49,7 @@ unless a manual run is started with `force=true`.
 ## Manual Build
 
 Open the
-[`Build and release Debian package`](https://github.com/wintopic/Codex-Desktop-Linux/actions/workflows/release-deb.yml)
+[`Build and release Debian package`](https://github.com/OddlyLabs/Codex-Desktop-Linux/actions/workflows/release-deb.yml)
 workflow and choose **Run workflow**.
 
 | Input | Default | Description |
